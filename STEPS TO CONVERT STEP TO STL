@@ -1,0 +1,16 @@
+Step to Stl File Conversion Code Steps :
+
+1.Install python software.
+2.Open command prompt
+3.Install necessary libraires such as cadquery , tkinter , trimesh. 
+As pip install cadquery
+Pip install tkinter
+Pip install trimesh
+4.In case for any module not found type pip install modulename
+5.Change the current working directory to the python directory.
+6. Execute command-code on command prompt as cd pythonpath.
+7.Next execute command-code as
+ python stos.py where stos is our python script name.
+8.Browse the step filewhich you want to convert by clicking import button 
+Note : one or more files can be selected simaltaneously.
+9.Later click on export button and choose file location in which you need the stl file converted.
